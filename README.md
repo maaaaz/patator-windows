@@ -43,7 +43,7 @@ Features
 Usage
 -----
 1. Download the [whole archive](https://github.com/maaaaz/patator-windows/archive/master.zip)
-2. Extract it and run `patator-windows.exe`
+2. Extract it and run `patator-windows.exe`. Note that the loading is a bit long as the resources have to be unbundled prior to execution
 3. Profit
 
 
