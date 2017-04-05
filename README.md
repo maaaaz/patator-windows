@@ -24,22 +24,17 @@ Features
 + pop_login     : Brute-force POP3
 + pop_passd     : Brute-force poppassd (http://netwinsite.com/poppassd/)
 + imap_login    : Brute-force IMAP4
-+ ldap_login    : Brute-force LDAP
 + smb_login     : Brute-force SMB
 + smb_lookupsid : Brute-force SMB SID-lookup
 + rlogin_login  : Brute-force rlogin
 + vmauthd_login : Brute-force VMware Authentication Daemon
 + mssql_login   : Brute-force MSSQL
 + oracle_login  : Brute-force Oracle
-+ mysql_login   : Brute-force MySQL
-+ mysql_query   : Brute-force MySQL queries
-+ rdp_login     : Brute-force RDP (NLA)
 + pgsql_login   : Brute-force PostgreSQL
 + vnc_login     : Brute-force VNC
 + dns_forward   : Forward DNS lookup
 + dns_reverse   : Reverse DNS lookup
 + snmp_login    : Brute-force SNMP v1/2/3
-+ ike_enum      : Enumerate IKE transforms
 + unzip_pass    : Brute-force the password of encrypted ZIP files
 + keystore_pass : Brute-force the password of Java keystore files
 + umbraco_crack : Crack Umbraco HMAC-SHA1 password hashes
